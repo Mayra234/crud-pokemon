@@ -1,0 +1,12 @@
+{
+  "pokemons": [
+    {
+      "id": 1,
+      "name": "Pikachu",
+      "type": "Eléctrico",
+      "softSpot": "Tierra",
+      "image": "C:\\fakepath\\pikachu.webp",
+      "description": "Su dueño es Ash."
+    }
+  ]
+}
